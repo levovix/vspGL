@@ -1,0 +1,18 @@
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfml prj.exe.config
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfml prj.exe
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfml prj.pdb
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfmlnet-audio-2.pdb
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfmlnet-audio-2.xml
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfmlnet-graphics-2.pdb
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfmlnet-graphics-2.xml
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfmlnet-system-2.pdb
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfmlnet-system-2.xml
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfmlnet-window-2.pdb
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\bin\Debug\sfmlnet-window-2.xml
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\obj\Debug\vspGL.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\obj\Debug\sfml prj.exe
+C:\Users\Администратор\Desktop\GGGames\vspGL\vspGL\vspGL\obj\Debug\sfml prj.pdb

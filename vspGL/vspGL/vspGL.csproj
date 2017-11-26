@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{412BE3EC-C079-4B9F-9A44-FF5C024F087B}</ProjectGuid>
+    <ProjectGuid>{CDAB4104-EF1E-43E2-94C7-AC4BBA38C4F4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>vspGL</RootNamespace>
     <AssemblyName>sfml prj</AssemblyName>
